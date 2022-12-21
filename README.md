@@ -3,7 +3,7 @@
 
 This repository provides all relevant information and utility scripts of the Apron Dataset, which focuses on training and evaluating classification and detection models for airport-apron logistics. 
 A detailed description can be found in the corresponding [publication](https://openaccess.thecvf.com/content/ACCV2022W/MLCSA/papers/Steininger_Towards_Scene_Understanding_for_Autonomous_Operations_on_Airport_Aprons_ACCVW_2022_paper.pdf). 
-The image data and annotations will be available soon at [wilddash.cc/aprondataset](https://wilddash.cc/aprondataset).  
+The image data and annotations is available on request at [wilddash.cc/aprondataset](https://wilddash.cc/aprondataset).  
 
 
 ## Annotation format
